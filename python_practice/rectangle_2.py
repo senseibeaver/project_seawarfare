@@ -1,0 +1,1 @@
+print('n' in str(7,3))
